@@ -1,3 +1,3 @@
 # Conceitos básicos de Streamlit
-## Prof. Massaki Igarashi
-<a href="mailto:prof.massaki@gmail.com">e-mail: prof.massaki@gmail.com</a>
+## Gabriel Rahal
+<a href="mailto:rahal@gmail.com">e-mail: rahal@gmail.com</a>
